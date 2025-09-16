@@ -11,7 +11,10 @@
 
 ---
 
-## ![Cat animation](https://lottiefiles.com/free-animation/black-rainbow-cat-CuautyyKEp)  About Me
+## <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ.../giphy.gif" width="120" alt="Cat animation">
+</p>
+  About Me
 - 🎓 Currently studying for a master's degree in **AI** in Korea  
 - 😄 I am pleased to welcome you to my profile :)
 
