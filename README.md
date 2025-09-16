@@ -1,11 +1,12 @@
 # ninjafmtjk
 
-# Hello, World! 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello+World!)](https://git.io/typing-svg)
+
 **AI Master's Student | Developer | Tech Explorer**
 
 ---
 
-## [!(https://icons8.ru/icon/LQvs2TUxXdFy/playstation) About Me
+##  About Me
 - 🎓 Currently studying for a master's degree in **AI** in Korea  
 - 😄 I am pleased to welcome you to my profile :)
 
