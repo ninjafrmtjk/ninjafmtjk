@@ -1,12 +1,17 @@
-# ninjafmtjk
+# ninjafrmtjk
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello+World!)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+ninjafrmtjk;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+</div>
+
 
 **AI Master's Student | Developer | Tech Explorer**
 
 ---
 
-##  About Me
+## ![Cat animation](https://lottiefiles.com/free-animation/black-rainbow-cat-CuautyyKEp)  About Me
 - 🎓 Currently studying for a master's degree in **AI** in Korea  
 - 😄 I am pleased to welcome you to my profile :)
 
