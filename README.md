@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## [!(https://icons8.ru/icon/LQvs2TUxXdFy/playstation) About Me
 - 🎓 Currently studying for a master's degree in **AI** in Korea  
 - 😄 I am pleased to welcome you to my profile :)
 
