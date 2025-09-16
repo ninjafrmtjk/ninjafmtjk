@@ -10,7 +10,7 @@
 <h2 align="center"><b>💻Developer |🎮 Gamer |🚀Tech Explorer</b></h2>
 
 
-## About Me  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU2MDUybmRsZ3pydXMzb3AxbmtlM2YxamFtdnVuangzZWpnZzU0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WirhZMBF1AZVK/giphy.gif" width="50" alt="Cat animation">
+## About Me  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU2MDUybmRsZ3pydXMzb3AxbmtlM2YxamFtdnVuangzZWpnZzU0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WirhZMBF1AZVK/giphy.gif" width="50" height="50" alt="Cat animation">
 - 🎓 Currently studying for a master's degree in **AI** in Korea  
 - 🏋️‍♂️ I go to the gym in my free time
 - 😄 I am pleased to welcome you to my profile :)
